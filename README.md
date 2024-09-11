@@ -55,12 +55,24 @@ My experience in avionics has involved extensive interaction with computer syste
 
 ## Certifications
 <div>
-  <a href"https://www.credly.com/badges/31681ab9-4f90-486d-a11a-ade89a229cde/linked_in_profile"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" /></a>
-  <a href"https://www.coursera.org/account/accomplishments/records/3JU8RAB8T7UV"><img src="https://img.shields.io/badge/Networking%20by%20NVIDIA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white" /></a>
-  <a href"https://coursera.org/share/a186dbd877a5c3536ff117e88b0e60f4"><img src="https://img.shields.io/badge/Security%20Operations%20Center%20(SOC)%20by%20Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
-  <a href"https://www.coursera.org/account/accomplishments/records/QGYXVDYRNDWY"><img src="https://img.shields.io/badge/Network%20Security%20by%20Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
-  <a href"https://freecodecamp.org/certification/RodgersMunene/responsive-web-design"><img src="https://img.shields.io/badge/Responsive%20Web%20Design%20by%20FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white" /></a>
-  <a href"https://www.credly.com/badges/f08a0468-a5a9-4df4-8a1c-c1730e3d58e6/linked_in_profile"><img src="https://img.shields.io/badge/Google%20AI%20Essentials%20by%20Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" /></a>
+  <a href="https://www.credly.com/badges/31681ab9-4f90-486d-a11a-ade89a229cde/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" />
+</a>
+  <a href="https://www.coursera.org/account/accomplishments/records/3JU8RAB8T7UV" target="_blank">
+    <img src="https://img.shields.io/badge/Networking%20by%20NVIDIA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white" alt="Networking by NVIDIA" />
+</a>
+  <a href="https://coursera.org/share/a186dbd877a5c3536ff117e88b0e60f4" target="_blank">
+    <img src="https://img.shields.io/badge/Security%20Operations%20Center%20(SOC)%20by%20Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Security Operations Center (SOC) by Cisco" />
+</a>
+  <a href="https://www.coursera.org/account/accomplishments/records/QGYXVDYRNDWY" target="_blank">
+    <img src="https://img.shields.io/badge/Network%20Security%20by%20Cisco-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Network Security by Cisco" />
+</a>
+  <a href="https://freecodecamp.org/certification/RodgersMunene/responsive-web-design" target="_blank">
+    <img src="https://img.shields.io/badge/Responsive%20Web%20Design%20by%20FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white" alt="Responsive Web Design by FreeCodeCamp" />
+</a>
+  <a href="https://www.credly.com/badges/f08a0468-a5a9-4df4-8a1c-c1730e3d58e6/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20AI%20Essentials%20by%20Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google AI Essentials by Google" />
+</a>
 </div>
 
 ## Projects
