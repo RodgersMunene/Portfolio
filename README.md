@@ -5,7 +5,7 @@ I am an avionics graduate who found my interests align in the field of Cybersecu
 
 ## Objective
 
-My journey in avionics had me interact with computer systems a lot, while safety is paramount, it has led me to develop a passion for cybersecurity, I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I am a dedicated cybersecurity professional with experience in network security, operating systems, and foundational knowledge on compliance standards (HIPAA and GDPR). I possess hands-on experience in vulnerability assessment and management, and cybersecurity auditing. Currently I'm enhancing my skills by undertaking an Active Directory and Penetration Testing walkthrough course, further sharpening my ability to identify and mitigate vulnerabilities.
+My experience in avionics has involved extensive interaction with computer systems, fostering a strong passion for cybersecurity. I am now focused on joining a Security Operations Center (SOC) as a Tier 1 Analyst. As a dedicated cybersecurity professional with expertise in network security, operating systems, and compliance standards (HIPAA and GDPR), I bring hands-on experience in vulnerability assessment, management, and cybersecurity auditing. Currently, I am advancing my skills through an Active Directory and Penetration Testing walkthrough course, enhancing my ability to identify and mitigate vulnerabilities effectively.
 
 ## Skills
 
