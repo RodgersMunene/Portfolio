@@ -1,11 +1,11 @@
 # Hello😊, I'm Rodgers Munene
 <a href="https://www.linkedin.com/in/rodgers-munene-646963159/"><img src="Rodgers Munene.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 180px; height: auto;" /></a>
 
-I am an avionics graduate who found my interests aligned in the field of Cybersecurity.
+I am an avionics graduate, an IT Professional with a strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possesses exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 
 
 ## Objective
 
-My experience in avionics has involved extensive interaction with computer systems, fostering a strong passion for cybersecurity. I am now focused on joining a Security Operations Center (SOC) as a Tier 1 Analyst. As a dedicated cybersecurity professional with expertise in network security, operating systems, and compliance standards (HIPAA and GDPR), I bring hands-on experience in vulnerability assessment, management, and cybersecurity auditing. Currently, I am advancing my skills through an Active Directory and Penetration Testing walkthrough course, enhancing my ability to identify and mitigate vulnerabilities effectively.
+I intend to enhance my skills by undertaking an Active Directory and Penetration Testing walkthrough course, further sharpening my ability to identify and mitigate vulnerabilities.
 
 ## Skills
 
