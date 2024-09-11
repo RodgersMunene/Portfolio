@@ -1,4 +1,4 @@
-# Hello World😊, I'm Rodgers Munene
+# Hello😊, I'm Rodgers Munene
 <a href="https://www.linkedin.com/in/rodgers-munene-646963159/"><img src="Rodgers Munene.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 200px; height: auto;" /></a>
 
 I am an avionics graduate who found my interests aligned in the field of Cybersecurity.
