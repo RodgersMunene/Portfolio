@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 
 # Hello World😊, I'm Rodgers Munene
-<a href="https://www.linkedin.com/in/rodgers-munene-646963159/"><img src="https://imgur.com/a/IROIZ8w" /></a>
+<a href="https://www.linkedin.com/in/rodgers-munene-646963159/"><img src="Rodgers Munene.jpg" /></a>
 
 I am an avionics graduate who found my interests align in the field of Cybersecurity.
 
