@@ -1,7 +1,7 @@
 # Hello😊, I'm Rodgers Munene
 <a href="https://www.linkedin.com/in/rodgers-munene-646963159/"><img src="Rodgers Munene.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 180px; height: auto;" /></a>
 
-I am an avionics graduate, an IT Professional with a strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possesses exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 
+I am an avionics graduate, IT Professional with a strong interest in ethical hacking, penetration testing, vulnerability analysis, and network security. Hard-working, energetic, personable, and technical-minded individual. Possesses exceptional customer service and communication skills with the strong ability to multitask and resolve issues quickly. 
 
 ## Objective
 
